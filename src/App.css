@@ -1,0 +1,89 @@
+/* Quiz Container */
+/* .quiz-container {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(135deg, #6a11cb, #2575fc);
+  color: #fff;
+  padding: 20px;
+} */
+
+.quiz-container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 20rem;
+}
+
+/* Quiz Card */
+.quiz-card,
+.result-card {
+  background: #fff;
+  color: #333;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  max-width: 400px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Question Heading */
+.quiz-card h2,
+.result-card h2 {
+  font-size: 1.5rem;
+  margin-bottom: 15px;
+}
+
+/* Options Container */
+.options-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+/* Option Label */
+.option-label {
+  font-size: 1rem;
+  margin: 5px 0;
+  cursor: pointer;
+}
+
+/* Radio Button */
+.option-label input {
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+/* Submit Button */
+.submit-btn {
+  background: #2575fc;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 15px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.submit-btn:hover {
+  background: #6a11cb;
+}
+
+/* Feedback Text */
+.feedback {
+  margin-top: 10px;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+/* Result Card */
+.result-card p {
+  font-size: 1.2rem;
+  font-weight: bold;
+}

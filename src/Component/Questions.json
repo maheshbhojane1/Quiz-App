@@ -1,0 +1,173 @@
+  [
+    {
+      "question": "What is the capital of France?",
+      "options": ["Paris", "London", "Berlin", "Madrid"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Who wrote 'Hamlet'?",
+      "options": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Jane Austen"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the square root of 64?",
+      "options": ["6", "8", "7", "9"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What year did World War II end?",
+      "options": ["1940", "1942", "1945", "1950"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "options": ["O2", "CO2", "H2O", "NaCl"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent Van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": ["China", "Japan", "South Korea", "Thailand"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "How many continents are there on Earth?",
+      "options": ["5", "6", "7", "8"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the capital of Italy?",
+      "options": ["Rome", "Venice", "Milan", "Naples"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which element has the chemical symbol 'Au'?",
+      "options": ["Silver", "Gold", "Iron", "Platinum"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the fastest land animal?",
+      "options": ["Cheetah", "Lion", "Horse", "Elephant"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the boiling point of water at sea level in Celsius?",
+      "options": ["90", "95", "100", "105"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the largest mammal on Earth?",
+      "options": ["Elephant", "Blue Whale", "Giraffe", "Great White Shark"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Who is known as the father of computers?",
+      "options": ["Alan Turing", "Charles Babbage", "John von Neumann", "Ada Lovelace"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "How many strings does a standard guitar have?",
+      "options": ["4", "5", "6", "7"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which language is used to style web pages?",
+      "options": ["HTML", "CSS", "JavaScript", "Python"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the capital of Canada?",
+      "options": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
+      "options": ["Nucleus", "Ribosome", "Mitochondria", "Cytoplasm"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is 10 x 10?",
+      "options": ["100", "1000", "10", "110"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which organ in the human body is responsible for pumping blood?",
+      "options": ["Liver", "Brain", "Heart", "Kidney"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the longest river in the world?",
+      "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the capital of Germany?",
+      "options": ["Berlin", "Munich", "Frankfurt", "Hamburg"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is 7 x 8?",
+      "options": ["56", "64", "48", "49"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the main ingredient in guacamole?",
+      "options": ["Tomato", "Avocado", "Pepper", "Onion"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Atlantic", "Pacific", "Indian", "Arctic"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the speed of light?",
+      "options": ["3 x 10^8 m/s", "3 x 10^5 m/s", "3 x 10^7 m/s", "3 x 10^9 m/s"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Who developed the theory of relativity?",
+      "options": ["Isaac Newton", "Albert Einstein", "Niels Bohr", "Galileo Galilei"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "options": ["Sydney", "Melbourne", "Brisbane", "Canberra"],
+      "correctAnswer": 3
+    },
+    {
+      "question": "What is the freezing point of water in Celsius?",
+      "options": ["0", "-1", "1", "-2"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which country hosted the 2020 Summer Olympics?",
+      "options": ["China", "Japan", "USA", "France"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the chemical symbol for Sodium?",
+      "options": ["S", "Na", "So", "Sm"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the primary gas found in Earth's atmosphere?",
+      "options": ["Oxygen", "Hydrogen", "Nitrogen", "Carbon Dioxide"],
+      "correctAnswer": 2
+    }
+  ]
+  
